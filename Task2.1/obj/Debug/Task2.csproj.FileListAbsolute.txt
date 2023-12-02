@@ -1,7 +1,0 @@
-C:\Users\MinerPL\RiderProjects\AOC\Task2\bin\Debug\Task2.exe
-C:\Users\MinerPL\RiderProjects\AOC\Task2\bin\Debug\Task2.pdb
-C:\Users\MinerPL\RiderProjects\AOC\Task2\obj\Debug\Task2.csproj.AssemblyReference.cache
-C:\Users\MinerPL\RiderProjects\AOC\Task2\obj\Debug\Task2.csproj.SuggestedBindingRedirects.cache
-C:\Users\MinerPL\RiderProjects\AOC\Task2\obj\Debug\Task2.csproj.CoreCompileInputs.cache
-C:\Users\MinerPL\RiderProjects\AOC\Task2\obj\Debug\Task2.exe
-C:\Users\MinerPL\RiderProjects\AOC\Task2\obj\Debug\Task2.pdb
